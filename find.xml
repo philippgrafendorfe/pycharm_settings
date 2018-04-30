@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '...\PreprocessDataAndVectorize.py [DocType]'" />
+    <option name="defaultScopeName" value="File '...\PreprocessDataAndVectorize.py [DocType]'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File '...\PreprocessDataAndVectorize.py [DocType]'" />
+  </component>
+</application>
