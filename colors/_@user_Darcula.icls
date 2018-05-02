@@ -3,7 +3,7 @@
     <property name="created">2018-04-30T21:13:35</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.1.2.0.0</property>
-    <property name="modified">2018-04-30T22:40:29</property>
+    <property name="modified">2018-05-02T21:36:52</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -18,7 +18,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="454545" />
+        <option name="BACKGROUND" value="1b1b1b" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
