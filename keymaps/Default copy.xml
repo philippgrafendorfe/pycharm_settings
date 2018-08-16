@@ -10,6 +10,13 @@
   <action id="PyExecuteCellAction">
     <keyboard-shortcut first-keystroke="shift alt e" />
   </action>
+  <action id="RecentFiles" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="ViewSource" />
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
     <keyboard-shortcut first-keystroke="ctrl 1" />
