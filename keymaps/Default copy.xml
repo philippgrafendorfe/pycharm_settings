@@ -1,5 +1,10 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute.2">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyTable" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorSplitLine" />
   <action id="ExecuteInPyConsoleAction">
@@ -14,6 +19,7 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="UML.ApplyCurrentLayout" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
