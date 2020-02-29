@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="pstat" type="Native" />
       <mapping pattern="tmp4400.tmp" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
