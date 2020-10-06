@@ -29,6 +29,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="Blutils.tools.label_groups.build_due_date_groups.LabelGroupBuilder" />
+        <option value="Blutils.tools.label_groups.build_due_date_groups.*" />
       </list>
     </option>
   </inspection_tool>
