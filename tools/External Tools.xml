@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Powershell" description="powershell script" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="powershell.exe &quot;install_prerequisites.ps1&quot;" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="D:/Repo/DocTypeModel" />
+    </exec>
+  </tool>
+</toolSet>
