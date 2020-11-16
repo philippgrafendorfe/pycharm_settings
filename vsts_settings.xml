@@ -4,147 +4,16 @@
       <array>
         <ServerContextState>
           <option name="type" value="VSO" />
-          <option name="uri" value="https://blumatix.visualstudio.com/DefaultCollection/Rechnungserkennung/_git/StrabagRefCode" />
-          <option name="serverUri" value="https://blumatix.visualstudio.com" />
-          <option name="userId" value="90522f4a-e652-664f-b785-d66267f49301" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;,&quot;name&quot;:&quot;blumatix&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projectCollections/37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;9c1b58df-f123-48cb-b796-eb14199d281b&quot;,&quot;name&quot;:&quot;StrabagRefCode&quot;,&quot;remoteUrl&quot;:&quot;https://blumatix.visualstudio.com/Rechnungserkennung/_git/StrabagRefCode&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/git/repositories/9c1b58df-f123-48cb-b796-eb14199d281b&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://blumatix.visualstudio.com/DefaultCollection/Rechnungserkennung/_git/stadtwien" />
-          <option name="serverUri" value="https://blumatix.visualstudio.com" />
-          <option name="userId" value="90522f4a-e652-664f-b785-d66267f49301" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;,&quot;name&quot;:&quot;blumatix&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projectCollections/37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;b75697f3-db58-4df8-9a20-fa83d11b998d&quot;,&quot;name&quot;:&quot;stadtwien&quot;,&quot;remoteUrl&quot;:&quot;https://blumatix.visualstudio.com/Rechnungserkennung/_git/stadtwien&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/git/repositories/b75697f3-db58-4df8-9a20-fa83d11b998d&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://blumatix.visualstudio.com/DefaultCollection/Rechnungserkennung/_git/Address" />
-          <option name="serverUri" value="https://blumatix.visualstudio.com" />
-          <option name="userId" value="90522f4a-e652-664f-b785-d66267f49301" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;,&quot;name&quot;:&quot;blumatix&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projectCollections/37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;f4f90d5f-3ccf-4f8c-82ef-435319cf66be&quot;,&quot;name&quot;:&quot;Address&quot;,&quot;remoteUrl&quot;:&quot;https://blumatix.visualstudio.com/Rechnungserkennung/_git/Address&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/git/repositories/f4f90d5f-3ccf-4f8c-82ef-435319cf66be&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://blumatix.visualstudio.com/DefaultCollection/Rechnungserkennung/_git/Blumatix%20Capture%20Datascience" />
-          <option name="serverUri" value="https://blumatix.visualstudio.com" />
-          <option name="userId" value="90522f4a-e652-664f-b785-d66267f49301" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;,&quot;name&quot;:&quot;blumatix&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projectCollections/37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;bed3234e-8eb3-4bb8-83c7-6dabb6b4df91&quot;,&quot;name&quot;:&quot;Blumatix Capture Datascience&quot;,&quot;remoteUrl&quot;:&quot;https://blumatix.visualstudio.com/Rechnungserkennung/_git/Blumatix%20Capture%20Datascience&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/git/repositories/bed3234e-8eb3-4bb8-83c7-6dabb6b4df91&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://blumatix.visualstudio.com/DefaultCollection/Rechnungserkennung/_git/PyCapture" />
-          <option name="serverUri" value="https://blumatix.visualstudio.com" />
-          <option name="userId" value="90522f4a-e652-664f-b785-d66267f49301" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;,&quot;name&quot;:&quot;blumatix&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projectCollections/37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;770dfb95-520f-4e89-a8ac-85acb3cee211&quot;,&quot;name&quot;:&quot;PyCapture&quot;,&quot;remoteUrl&quot;:&quot;https://blumatix.visualstudio.com/Rechnungserkennung/_git/PyCapture&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/git/repositories/770dfb95-520f-4e89-a8ac-85acb3cee211&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://blumatix.visualstudio.com/DefaultCollection/Rechnungserkennung/_git/Blumatix%20Capture" />
-          <option name="serverUri" value="https://blumatix.visualstudio.com" />
-          <option name="userId" value="90522f4a-e652-664f-b785-d66267f49301" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;,&quot;name&quot;:&quot;blumatix&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projectCollections/37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;44cef55f-efa0-482e-b90c-4bac033b25ea&quot;,&quot;name&quot;:&quot;Blumatix Capture&quot;,&quot;remoteUrl&quot;:&quot;https://blumatix.visualstudio.com/Rechnungserkennung/_git/Blumatix%20Capture&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/git/repositories/44cef55f-efa0-482e-b90c-4bac033b25ea&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://blumatix.visualstudio.com/DefaultCollection/Rechnungserkennung/_git/PyBlutils" />
-          <option name="serverUri" value="https://blumatix.visualstudio.com" />
-          <option name="userId" value="90522f4a-e652-664f-b785-d66267f49301" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;,&quot;name&quot;:&quot;blumatix&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projectCollections/37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;0cc9e69c-3579-459a-b832-236a16d51ada&quot;,&quot;name&quot;:&quot;PyBlutils&quot;,&quot;remoteUrl&quot;:&quot;https://blumatix.visualstudio.com/Rechnungserkennung/_git/PyBlutils&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/git/repositories/0cc9e69c-3579-459a-b832-236a16d51ada&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://blumatix.visualstudio.com/DefaultCollection/Rechnungserkennung/_git/BlumatixI18N" />
-          <option name="serverUri" value="https://blumatix.visualstudio.com" />
-          <option name="userId" value="90522f4a-e652-664f-b785-d66267f49301" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;,&quot;name&quot;:&quot;blumatix&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projectCollections/37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;33549508-952f-41db-906e-537985804037&quot;,&quot;name&quot;:&quot;BlumatixI18N&quot;,&quot;remoteUrl&quot;:&quot;https://blumatix.visualstudio.com/Rechnungserkennung/_git/BlumatixI18N&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/git/repositories/33549508-952f-41db-906e-537985804037&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://blumatix.visualstudio.com/DefaultCollection/Rechnungserkennung/_git/LineItem" />
-          <option name="serverUri" value="https://blumatix.visualstudio.com" />
-          <option name="userId" value="90522f4a-e652-664f-b785-d66267f49301" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;,&quot;name&quot;:&quot;blumatix&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projectCollections/37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;a58d751b-41a7-4572-a8e4-138050bbe08e&quot;,&quot;name&quot;:&quot;LineItem&quot;,&quot;remoteUrl&quot;:&quot;https://blumatix.visualstudio.com/Rechnungserkennung/_git/LineItem&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/git/repositories/a58d751b-41a7-4572-a8e4-138050bbe08e&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://blumatix.visualstudio.com/DefaultCollection/Rechnungserkennung/_git/Contacts" />
-          <option name="serverUri" value="https://blumatix.visualstudio.com" />
-          <option name="userId" value="90522f4a-e652-664f-b785-d66267f49301" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;,&quot;name&quot;:&quot;blumatix&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projectCollections/37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;6785a47a-fb29-4609-9005-7696014754f6&quot;,&quot;name&quot;:&quot;Contacts&quot;,&quot;remoteUrl&quot;:&quot;https://blumatix.visualstudio.com/Rechnungserkennung/_git/Contacts&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/git/repositories/6785a47a-fb29-4609-9005-7696014754f6&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://blumatix.visualstudio.com/DefaultCollection/Rechnungserkennung/_git/VatGroups" />
-          <option name="serverUri" value="https://blumatix.visualstudio.com" />
-          <option name="userId" value="90522f4a-e652-664f-b785-d66267f49301" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;,&quot;name&quot;:&quot;blumatix&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projectCollections/37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;73e17f81-d1e0-4e3d-82d5-1b16050339fe&quot;,&quot;name&quot;:&quot;VatGroups&quot;,&quot;remoteUrl&quot;:&quot;https://blumatix.visualstudio.com/Rechnungserkennung/_git/VatGroups&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/git/repositories/73e17f81-d1e0-4e3d-82d5-1b16050339fe&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://blumatix.visualstudio.com/DefaultCollection/Rechnungserkennung/_git/DocTypeModel" />
-          <option name="serverUri" value="https://blumatix.visualstudio.com" />
-          <option name="userId" value="90522f4a-e652-664f-b785-d66267f49301" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;,&quot;name&quot;:&quot;blumatix&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projectCollections/37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;4acb9655-2694-4bb4-82bf-ce5afc24aceb&quot;,&quot;name&quot;:&quot;DocTypeModel&quot;,&quot;remoteUrl&quot;:&quot;https://blumatix.visualstudio.com/Rechnungserkennung/_git/DocTypeModel&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/git/repositories/4acb9655-2694-4bb4-82bf-ce5afc24aceb&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
           <option name="uri" value="https://dev.azure.com/blumatix" />
           <option name="serverUri" value="https://dev.azure.com/blumatix" />
           <option name="userId" value="90522f4a-e652-664f-b785-d66267f49301" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
         </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://blumatix.visualstudio.com/DefaultCollection/Rechnungserkennung/_git/ImageQualityAssessment" />
-          <option name="serverUri" value="https://blumatix.visualstudio.com" />
-          <option name="userId" value="90522f4a-e652-664f-b785-d66267f49301" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;,&quot;name&quot;:&quot;blumatix&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projectCollections/37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;e006b2eb-8872-4759-892a-064819e2a62e&quot;,&quot;name&quot;:&quot;ImageQualityAssessment&quot;,&quot;remoteUrl&quot;:&quot;https://blumatix.visualstudio.com/Rechnungserkennung/_git/ImageQualityAssessment&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/git/repositories/e006b2eb-8872-4759-892a-064819e2a62e&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://blumatix.visualstudio.com/DefaultCollection/Rechnungserkennung/_git/philipp_utils" />
-          <option name="serverUri" value="https://blumatix.visualstudio.com" />
-          <option name="userId" value="90522f4a-e652-664f-b785-d66267f49301" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;,&quot;name&quot;:&quot;blumatix&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projectCollections/37eb0c04-6720-45a5-89fd-7036234b6cbc&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;12533e9b-6fd7-49c2-87f0-f7228591c0d1&quot;,&quot;name&quot;:&quot;philipp_utils&quot;,&quot;remoteUrl&quot;:&quot;https://blumatix.visualstudio.com/Rechnungserkennung/_git/philipp_utils&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/git/repositories/12533e9b-6fd7-49c2-87f0-f7228591c0d1&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Automatische Rechnungserkennung mit ML&quot;,&quot;id&quot;:&quot;06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;,&quot;name&quot;:&quot;Rechnungserkennung&quot;,&quot;revision&quot;:418109990,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://blumatix.visualstudio.com/_apis/projects/06eaa091-2580-47eb-a98d-f8c799ec4aef&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
       </array>
     </option>
     <option name="properties">
-      <array>
-        <PropertyState>
-          <option name="name" value="lastContextKey" />
-          <option name="value" value="//blumatix.visualstudio.com/defaultcollection/rechnungserkennung/_git/doctypemodel" />
-        </PropertyState>
-      </array>
+      <array />
     </option>
   </component>
 </application>
