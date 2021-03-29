@@ -5,7 +5,7 @@
   <component name="LessonStateBase">
     <option name="map">
       <map>
-        <entry key="actions" value="NOT_PASSED" />
+        <entry key="actions" value="PASSED" />
         <entry key="basic completion" value="NOT_PASSED" />
         <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
@@ -14,7 +14,7 @@
         <entry key="collapse" value="NOT_PASSED" />
         <entry key="comment line" value="NOT_PASSED" />
         <entry key="completion.f.string" value="NOT_PASSED" />
-        <entry key="context.actions" value="NOT_PASSED" />
+        <entry key="context.actions" value="PASSED" />
         <entry key="declaration and usages" value="NOT_PASSED" />
         <entry key="duplicate" value="NOT_PASSED" />
         <entry key="extract method" value="NOT_PASSED" />
