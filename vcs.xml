@@ -8,19 +8,21 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://blumatix.visualstudio.com" />
-          <option name="userName" value="p.grafendorfer@blumatix.at" />
+          <option name="userName" value="philipp.grafendorfer@blumatix-consulting.at" />
         </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\source" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
       </list>
     </option>
   </component>
