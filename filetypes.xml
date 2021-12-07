@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="trainingsetup" type="Dockerfile" />
       <mapping ext="kmeans" type="Dockerfile" />
+      <mapping ext="datageneration" type="Dockerfile" />
       <mapping ext="trainingids" type="Dockerfile" />
       <mapping ext="b64" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
