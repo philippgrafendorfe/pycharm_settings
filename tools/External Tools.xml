@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="D:/Repo/DocTypeModel" />
     </exec>
   </tool>
+  <tool name="pylint" description="pylint" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\ProgramData\Anaconda3\envs\PyBlutils\Lib\site-packages\pylint" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
 </toolSet>
