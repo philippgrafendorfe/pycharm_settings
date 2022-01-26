@@ -7,6 +7,7 @@
       <mapping ext="kmeans" type="Dockerfile" />
       <mapping ext="experimentcpu" type="Dockerfile" />
       <mapping ext="datageneration" type="Dockerfile" />
+      <mapping ext="cpu" type="Dockerfile" />
       <mapping ext="trainingids" type="Dockerfile" />
       <mapping ext="b64" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
