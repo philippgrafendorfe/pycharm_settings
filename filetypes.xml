@@ -2,6 +2,14 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping ext="trainingsetup" type="Dockerfile" />
+      <mapping ext="german" type="Dockerfile" />
+      <mapping ext="gpu" type="Dockerfile" />
+      <mapping ext="kmeans" type="Dockerfile" />
+      <mapping ext="experimentcpu" type="Dockerfile" />
+      <mapping ext="datageneration" type="Dockerfile" />
+      <mapping ext="cpu" type="Dockerfile" />
+      <mapping ext="trainingids" type="Dockerfile" />
       <mapping pattern=".order" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
@@ -12,13 +20,6 @@
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="cpu" type="Dockerfile" />
-      <mapping ext="datageneration" type="Dockerfile" />
-      <mapping ext="experimentcpu" type="Dockerfile" />
-      <mapping ext="gpu" type="Dockerfile" />
-      <mapping ext="kmeans" type="Dockerfile" />
-      <mapping ext="trainingids" type="Dockerfile" />
-      <mapping ext="trainingsetup" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
