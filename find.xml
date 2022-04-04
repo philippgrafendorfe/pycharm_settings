@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'supertrend-crypto-bot'" />
-    <option name="defaultScopeName" value="Project 'supertrend-crypto-bot'" />
+    <option name="customScope" value="File '…\test\test_supertrend_agent.py'" />
+    <option name="defaultScopeName" value="File '…\test\test_supertrend_agent.py'" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'supertrend-crypto-bot'" />
+    <option name="SEARCH_SCOPE" value="File '…\test\test_supertrend_agent.py'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
