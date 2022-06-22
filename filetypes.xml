@@ -6,6 +6,7 @@
       <mapping ext="trainingsetup" type="Dockerfile" />
       <mapping ext="german" type="Dockerfile" />
       <mapping ext="gpu" type="Dockerfile" />
+      <mapping ext="lineitem" type="Dockerfile" />
       <mapping ext="kmeans" type="Dockerfile" />
       <mapping ext="experimentcpu" type="Dockerfile" />
       <mapping ext="contact" type="Dockerfile" />
