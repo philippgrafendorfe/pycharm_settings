@@ -10,6 +10,7 @@
       <mapping ext="clustering" type="Dockerfile" />
       <mapping ext="kmeans" type="Dockerfile" />
       <mapping ext="lineitem" type="Dockerfile" />
+      <mapping ext="headerdetails" type="Dockerfile" />
       <mapping ext="experimentcpu" type="Dockerfile" />
       <mapping ext="contact" type="Dockerfile" />
       <mapping ext="datageneration" type="Dockerfile" />
