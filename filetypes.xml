@@ -5,6 +5,7 @@
       <mapping pattern="all_languages_corpus.yaml" type="AUTO_DETECTED" />
       <mapping ext="document_analyzer" type="DTD" />
       <mapping ext="label_creator" type="Dockerfile" />
+      <mapping ext="pytorchgpu" type="Dockerfile" />
       <mapping ext="experimentgpu" type="Dockerfile" />
       <mapping ext="trainingsetup" type="Dockerfile" />
       <mapping ext="german" type="Dockerfile" />
@@ -14,6 +15,7 @@
       <mapping ext="kmeans" type="Dockerfile" />
       <mapping ext="lineitem" type="Dockerfile" />
       <mapping ext="headerdetails" type="Dockerfile" />
+      <mapping ext="trainingsetcleaner" type="Dockerfile" />
       <mapping ext="experimentcpu" type="Dockerfile" />
       <mapping ext="contact" type="Dockerfile" />
       <mapping ext="datageneration" type="Dockerfile" />
