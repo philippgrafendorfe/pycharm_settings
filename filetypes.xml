@@ -10,6 +10,7 @@
       <mapping ext="trainingsetup" type="Dockerfile" />
       <mapping ext="german" type="Dockerfile" />
       <mapping ext="gpu" type="Dockerfile" />
+      <mapping ext="pytorchcpu" type="Dockerfile" />
       <mapping ext="clustering" type="Dockerfile" />
       <mapping ext="datastore_service" type="Dockerfile" />
       <mapping ext="kmeans" type="Dockerfile" />
