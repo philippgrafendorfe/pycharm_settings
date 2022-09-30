@@ -12,12 +12,12 @@
       <mapping ext="gpu" type="Dockerfile" />
       <mapping ext="pytorchcpu" type="Dockerfile" />
       <mapping ext="clustering" type="Dockerfile" />
+      <mapping ext="lineitem" type="Dockerfile" />
       <mapping ext="datastore_service" type="Dockerfile" />
       <mapping ext="kmeans" type="Dockerfile" />
-      <mapping ext="lineitem" type="Dockerfile" />
       <mapping ext="headerdetails" type="Dockerfile" />
-      <mapping ext="trainingsetcleaner" type="Dockerfile" />
       <mapping ext="experimentcpu" type="Dockerfile" />
+      <mapping ext="trainingsetcleaner" type="Dockerfile" />
       <mapping ext="contact" type="Dockerfile" />
       <mapping ext="datageneration" type="Dockerfile" />
       <mapping ext="cpu" type="Dockerfile" />
